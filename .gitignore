@@ -17,6 +17,7 @@
 
 Gemfile.lock
 config/database.yml
+config/fedora.yml
 
 # Ignore metadata files added by RubyMine IDE
 .idea
