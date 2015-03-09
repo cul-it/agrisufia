@@ -24,4 +24,6 @@ db/schema.rb
 .idea
 
 .ruby-gemset
+.ruby-version
 
+vendor/bundle
