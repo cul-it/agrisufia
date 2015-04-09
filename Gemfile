@@ -35,19 +35,24 @@ gem 'spring',        group: :development
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-# Use debugger
-# gem 'debugger', group: [:development, :test]
-
-# add sufia require gems
-gem 'sufia', '6.0.0.rc1'
-gem 'kaminari', github: 'harai/kaminari', branch: 'route_prefix_prototype'  # required to handle pagination properly in dashboard. See https://github.com/amatsuda/kaminari/pull/322
+# add sufia required gems
+gem 'sufia', '6.0.0'
+gem 'kaminari', github: 'jcoyne/kaminari', branch: 'sufia'
 
 
+group :development, :test do
+  # Use debugger
+  # gem 'debugger', group: [:development, :test]
+  gem 'pry'
+  gem 'pry-byebug'
+end
+
+
+
+gem "rsolr", "~> 1.0.6"
 gem "devise"
 gem "devise-guests", "~> 0.3"
 group :development, :test do
   gem "rspec-rails"
   gem "jettywrapper"
-  # gem "pry"
-  # gem "pry-byebug"
 end

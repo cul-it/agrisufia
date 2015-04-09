@@ -1,0 +1,25 @@
+default: &default
+  adapter: mysql2
+  encoding: utf8
+  pool: 5
+  socket: /var/lib/mysql/mysql.sock
+
+development:
+  <<: *default
+  database: <railsapp_db>_development
+  username: <railsapp_db_user>
+  password: <railsapp_db_pass>
+
+test:
+  <<: *default
+  database: <railsapp_db>_test
+  username: xxxxxxxxxxx
+  password: xxxxxxxxxx
+
+production:
+  <<: *default
+  database: <railsapp_db>
+  username: xxxxxxxxxxx
+  password: xxxxxxxxxx
+
+
