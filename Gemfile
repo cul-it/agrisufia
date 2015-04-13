@@ -38,7 +38,7 @@ gem 'spring',        group: :development
 # add sufia required gems
 gem 'sufia', '6.0.0'
 gem 'kaminari', github: 'jcoyne/kaminari', branch: 'sufia'
-
+gem 'hydra-role-management', '~> 0.2'
 
 group :development, :test do
   # Use debugger
