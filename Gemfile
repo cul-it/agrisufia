@@ -47,7 +47,7 @@ group :development, :test do
   gem 'pry-byebug'
 end
 
-
+gem 'qa'
 
 gem "rsolr", "~> 1.0.6"
 gem "devise"
