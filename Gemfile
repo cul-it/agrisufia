@@ -36,7 +36,7 @@ gem 'spring',        group: :development
 # gem 'capistrano-rails', group: :development
 
 # add sufia required gems
-gem 'sufia', '6.0.0'
+gem 'sufia', '6.0.0', :path => "vendor/gems/sufia-6.0.0"
 gem 'kaminari', github: 'jcoyne/kaminari', branch: 'sufia'
 gem 'hydra-role-management', '~> 0.2'
 
@@ -48,6 +48,8 @@ group :development, :test do
 end
 
 gem 'qa'
+
+gem "bootstrap-sass", "< 3.3.5"
 
 gem "rsolr", "~> 1.0.6"
 gem "devise"
