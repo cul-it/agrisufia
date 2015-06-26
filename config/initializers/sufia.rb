@@ -6,6 +6,8 @@ Sufia.config do |config|
     file_author: :creator
   }
 
+  config.arkivo_api = false
+
   config.max_days_between_audits = 7
 
   config.max_notifications_for_dashboard = 5
