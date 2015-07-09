@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.8'
+gem 'rails', '4.2'
+gem 'responders', '~> 2.0'
 # Use mysql as the database for Active Record
 gem 'mysql2'
 # Use SCSS for stylesheets
@@ -36,7 +37,7 @@ gem 'spring',        group: :development
 # gem 'capistrano-rails', group: :development
 
 # add sufia required gems
-gem 'sufia', '6.0.0', :path => "vendor/gems/sufia-6.0.0"
+gem 'sufia', '6.1'
 gem 'kaminari', github: 'jcoyne/kaminari', branch: 'sufia'
 gem 'hydra-role-management', '~> 0.2'
 
