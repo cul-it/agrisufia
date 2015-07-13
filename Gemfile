@@ -37,7 +37,7 @@ gem 'spring',        group: :development
 # gem 'capistrano-rails', group: :development
 
 # add sufia required gems
-gem 'sufia', '6.1'
+gem 'sufia', '6.2'
 gem 'kaminari', github: 'jcoyne/kaminari', branch: 'sufia'
 gem 'hydra-role-management', '~> 0.2'
 
