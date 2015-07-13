@@ -1,0 +1,197 @@
+:terms:
+    - :term: Africa
+      :type: continent
+      :region: 
+      :continent: 
+    - :term: Asia
+      :type: continent
+      :region: 
+      :continent: 
+    - :term: East Asia
+      :type: region
+      :region: 
+      :continent: Asia
+    - :term: North Africa
+      :type: region
+      :region: 
+      :continent: Africa
+    - :term: South Asia
+      :type: region
+      :region: 
+      :continent: Asia
+    - :term: Sub-Saharan Africa
+      :type: region
+      :region: 
+      :continent: Africa
+    - :term: Angola
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Bangladesh
+      :type: country
+      :region: South Asia
+      :continent: Asia
+    - :term: Benin
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Botswana
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Burkina Faso
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Burundi
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Cameroon
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Chad
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: China
+      :type: country
+      :region: East Asia
+      :continent: Asia
+    - :term: Cote D'Ivoire
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Democratic Republic of the Congo
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Egypt
+      :type: country
+      :region: North Africa
+      :continent: Africa
+    - :term: Eritrea
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Ethiopia
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Gabon
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Gambia
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Ghana
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Guinea
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: India
+      :type: country
+      :region: South Asia
+      :continent: Asia
+    - :term: Kenya
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Liberia
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Madagascar
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Malawi
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Mali
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Mauritius
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Mozambique
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Namibia
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Nepal
+      :type: country
+      :region: South Asia
+      :continent: Asia
+    - :term: Niger
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Nigeria
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Pakistan
+      :type: country
+      :region: South Asia
+      :continent: Asia
+    - :term: Republic of the Congo
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Rwanda
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Senegal
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Sierra Leone
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: South Africa
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Sri Lanka
+      :type: country
+      :region: South Asia
+      :continent: Asia
+    - :term: Sudan
+      :type: country
+      :region: North Africa
+      :continent: Africa
+    - :term: Tanzania
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Togo
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Uganda
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Zambia
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
+    - :term: Zimbabwe
+      :type: country
+      :region: Sub-Saharan Africa
+      :continent: Africa
