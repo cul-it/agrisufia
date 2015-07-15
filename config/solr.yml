@@ -1,10 +1,9 @@
 # This is a sample config file that points to a solr server for each environment
 development:
-  url: <%= "#{ENV['SOLR_URL']}/development" %>
+  url: http://localhost:8080/solr/development
 test: &TEST
   url: <%= "#{ENV['SOLR_URL']}/test" %>
 cucumber:
   <<: *TEST
 production:
   url: <%= "#{ENV['SOLR_URL']}" %>
-
